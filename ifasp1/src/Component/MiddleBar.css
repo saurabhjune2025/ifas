@@ -1,0 +1,46 @@
+
+#bl{
+    border-left: dotted white;
+    padding-left: 20px;
+    
+}
+#br{
+    border-right: dotted white;
+    padding-right: 20px;
+    
+}
+
+.adv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #0044E8;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+
+
+.mainC{
+    display: flex;
+    justify-content: center;
+    height: 15vh;
+    background-color: #0044E8;
+    
+    
+}
+.infoadv{
+    background-color: #0044E8;
+    color: white;
+    font-weight: 500;
+    
+
+}
+.advimg{
+    height: 40px;
+    padding-right: 10px;
+    background-color: #0044E8;
+
+    
+}

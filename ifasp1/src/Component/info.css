@@ -1,0 +1,22 @@
+#infoContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18vw;
+    height: 23vh;
+    box-shadow: -2px -2px 10px grey;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    padding-bottom:15px;
+    margin-left: 10px;
+    margin-top: 15px;
+    
+    
+
+    
+}
+
+#infoimg{
+    width: 15vw;
+    height: 20vh;
+}

@@ -1,0 +1,64 @@
+#mainComponent {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    background-color: #f7f8fa;
+    
+}
+#imges1{
+    height: 43vh;
+    padding-right: 25px;
+    
+    
+}
+#Comp1{
+    padding-left: 25px;
+    
+}
+
+
+
+.introtext{
+    font-size: 40px;
+    line-height: 55px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#inputno{
+    height: 30px;
+    width: 30vw;
+    border:solid 1px #ccc;
+    border: rgba(0, 0, 0, 0.26) solid 1px;
+    border-left: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+}
+
+#getStarted{
+    height: 35px;
+    background-color:#0044E8;
+    border-radius: 3px;
+    border: none;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+#highlight{
+    color:#387ce9ea;
+    font-weight:600;
+    text-decoration: underline;
+    padding-right:3px;
+}
+
+#selectCountry{
+    border: rgba(0, 0, 0, 0.26) solid 1px;
+    
+    height: 34px;
+    border-right: none;
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+    
+}

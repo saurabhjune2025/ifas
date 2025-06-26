@@ -1,0 +1,52 @@
+#MainLower{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.highBlue{
+    color:#0044E8;
+    
+}
+#tagline{
+    font-size: 1.5rem;
+}
+
+#expBtn{
+    background-color:#0074F1;
+    border-radius: 20px;
+    border: none;
+    padding:4px 10px;
+    color: white;
+    font-weight: bold;
+    margin-top: 7px;
+    padding: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#LowerComp2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding-right: 35px;
+}
+
+#LowerComp1{
+    padding-top: 60px;
+    padding-left: 50px;
+}
+#subTagline{
+    padding-top: 30px;
+}
+p > label{
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+#redUnderline{
+    background-image: url("https://ifasonline.com/static/media/homePage_vectorstrike.244a0d376b66b04b5d46.webp");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100% 15px;
+    padding-bottom: 12px;
+}
